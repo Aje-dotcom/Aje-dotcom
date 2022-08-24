@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer vision projects 
 - 🌱 I’m currently learning Data Analytics with python...
 - 💞️ I’m looking to collaborate on ML related teamwork and idea to improve my leaning ability for greater acheivement...
-- 📫 How to reach me ...yourengr@gmail.com
+- 📫 How to reach me yourengr@gmail.com
 
 <!---
 Aje-dotcom/Aje-dotcom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
