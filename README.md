@@ -1,6 +1,6 @@
 - <h1 align="center" >👋 Hi, I’m <a href="https://twitter.com/engr17" target="_blank">Ajemba Ekene Emmanuel</a></h1>
 - 👀 I’m an aspiring data scientist and I am interested in computer vision projects, Blockchain digital economy and robotics
-- 🌱 I’m a certified in Data Science Professional Certification fellow issued by <a href="https://twitter.com/ibm" target="_blank">IBM</a> & IHS Towers Data Analysis and Evaluation intermediate level 2024, <a href="https://www.linkedin.com/company/ibm" target="_blank">Interview and Career Guide for job market by <a href="https://coursera.org" target="_blank">Coursera.</a> - I'm currently learning <h3 align="center" >AI Engineering plus Analytics with python </b> Data Sxience Corporate course at Darey.io with <a href="https://www.youtube.com/watch?v=UWOVipHUZaM" target="_blank">Mathematics in Computer Science..</h3>.</a>
+- 🌱 I’m a certified in Data Science Professional Certification fellow issued by <a href="https://twitter.com/ibm" target="_blank">IBM<be></a> & IHS Towers Data Analysis and Evaluation intermediate level 2024, <a href="https://www.linkedin.com/company/ibm" target="_blank">Interview and Career Guide for job market by <a href="https://coursera.org" target="_blank">Coursera.</br></a> - I'm currently learning <h3 align="center" >AI Engineering plus Analytics with python </b> Data Sxience Corporate course at Darey.io with <a href="https://www.youtube.com/watch?v=UWOVipHUZaM" target="_blank">Mathematics in Computer Science..</h3>.</a>
 - 💞️ I’m looking to collaborate on ML-related builds to team up (teamwork) and ideas to improve my learning ability for greater achievement...
 - 📫 How to reach me: yourengr@gmail.com
 
@@ -36,8 +36,8 @@ The following Python libraries were used throughout the certification: <br>
 </p>
 
 ## 📂 Projects
-- [Extracting and Visualizing Stock Data](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Final%20Assignment.ipynb)
-- [Chicago Census, Crime, and School Data Analysis using SQL](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/05.%20Course%20Assignment/)
+- [Extracting and Visualizing Stock Data](https://github.com/Aje-dotcom/IBM-Data-Science-Professional-Certificate/blob/main/05.%20Python%20Project%20for%20Data%20Science/Final%20Assignment.ipynb)
+- [Chicago Census, Crime, and School Data Analysis using SQL](https://github.com/Aje-dotcom/IBM-Data-Science-Professional-Certificate/blob/main/06.%20Databases%20and%20SQL%20for%20Data%20Science%20with%20Python/05.%20Course%20Assignment/)
 - [House Price Predictions](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/07.%20Data%20Analysis%20with%20Python/Final%20Assignment%20-%20House%20Price%20Predictions.ipynb)
 - [US Domestic Airline Flights Performance Dashboard](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/tree/main/08.%20Data%20Visualization%20with%20Python/Final%20Assignment)
 - [Best Classifier Model](https://github.com/DanielBarnes18/IBM-Data-Science-Professional-Certificate/blob/main/09.%20Machine%20Learning%20with%20Python/Final%20Project/Machine%20Learning%20with%20Python%20-%20The%20Best%20Classifier.ipynb)
