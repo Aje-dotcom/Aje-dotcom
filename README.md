@@ -1,8 +1,8 @@
 - <h1 align="center" >👋 Hi, I’m <a href="https://twitter.com/engr17" target="_blank">Ajemba Ekene Emmanuel</a></h1>
-- 👀 I’m interested in computer vision projects 
-- 🌱 I’m certified in Data Science Professional Certification course issued by <a href="https://twitter.com/ibm" target="_blank">IBM</a> and Interview & <a href="https://www.linkedin.com/company/ibm" target="_blank">Interview and Career Guide for job market by <a href="https://coursera.org" target="_blank">Coursera.</a> - I'm currently learning <h3 align="center" >AI Engineering plus Analytics with python with <a href="https://www.youtube.com/watch?v=UWOVipHUZaM" target="_blank">Mathematics in Computer Science..</h3>.</a>
-- 💞️ I’m looking to collaborate on ML related teamwork and idea to improve my leaning ability for greater acheivement...
-- 📫 How to reach me yourengr@gmail.com
+- 👀 I’m an aspiring data scientist and I am interested in computer vision projects, Blockchain digital economy and robotics
+- 🌱 I’m a certified in Data Science Professional Certification fellow issued by <a href="https://twitter.com/ibm" target="_blank">IBM</a> & IHS Towers Data Analysis and Evaluation intermediate level 2024, <a href="https://www.linkedin.com/company/ibm" target="_blank">Interview and Career Guide for job market by <a href="https://coursera.org" target="_blank">Coursera.</a> - I'm currently learning <h3 align="center" >AI Engineering plus Analytics with python </b> Data Sxience Corporate course at Darey.io with <a href="https://www.youtube.com/watch?v=UWOVipHUZaM" target="_blank">Mathematics in Computer Science..</h3>.</a>
+- 💞️ I’m looking to collaborate on ML-related builds to team up (teamwork) and ideas to improve my learning ability for greater achievement...
+- 📫 How to reach me: yourengr@gmail.com
 
 
 A bit about Myself, I am also <b>Aje-dotcom</b> on github pursuing my <b>Bachelor of Science</b> in <b>Computer Science</b> from University of London Uol, I have acquired knowledge of Data Science and degree in computer engineering from University of Nigeria, Nsukka as of now, I am learning Mathematics in Computer Science <b>(Next.JS) </b> but still, wish to explore many fields. ⚡
